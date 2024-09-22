@@ -2,13 +2,12 @@
 black==22.3.0
 pytest==7.4.0 
 pytest-cov==4.0.0
-pytest-nbval
-pylint==2.15.3
+nbval==0.11.0
 
 #ruff
 ruff==0.0.284
 
 # packages for analysis
-pandas==1.5.3
-matplotlib==3.7.1
+pandas==2.2.2
+matplotlib==3.9.2
 tabulate
