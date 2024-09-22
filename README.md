@@ -67,38 +67,6 @@ The dataset has the following features:
 - Market_Trend - checking the place of these brands as per the market
 - Certifications - any certifications the brand had
 
-### 🚀 How to Run
-1. Clone the repository:
-
-```bash
-git clone https://github.com/nogibjj/Nruta_Individual_Project_1.git
-cd Nruta_Individual_Project_1
-```
-
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the script:
-
-```bash
-python sustainable_fashion.py
-```
-
-4. Generate Markdown and visualizations:
-
-- The output summary statistics will be saved in `sustainable_fashion.md`.
-- Visualizations (bar chart and pie chart) will be saved as `bar_plot.png` and `pie_chart.png`.
-
-### 🧪 Testing
-You can run the script and test the output with the dataset provided. To check the correctness of the statistics and visualizations, run:
-
-```bash
-make test
-```
-
 ### 📋 Summary Statistics 
 
 Describe:
@@ -119,3 +87,6 @@ The script generates two visualizations:
 
 The statistics and the visualizations for the Sustainability brands data can be viewed through the following link:
 [Click here to view details](sustainable_fashion.md)
+
+### 🎥 Demo Video
+Please click here to view the Demo Video where I walk through this project.
