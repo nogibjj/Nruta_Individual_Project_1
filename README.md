@@ -17,20 +17,20 @@
 │       ├── install.yml
 │       ├── lint.yml
 │       └── test.yml
-├── .gitignore
-├── Makefile
-├── README.md
-├── bar_plot.png
 ├── mylib
 │   ├── make_functions.py
 │   └── test_lib.py
-├── pie_chart.png
+├── .gitignore
+├── Makefile
+├── README.md
 ├── requirements.txt
 ├── sustainable_fashion.ipynb
 ├── sustainable_fashion.md
 ├── sustainable_fashion.py
-├── sustainable_fashion_trends_2024.csv
-└── test_script.py
+├── test_script.py
+├── bar_plot.png
+├── pie_chart.png
+└── sustainable_fashion_trends_2024.csv
 ```
 
 ### 🏗️ Requirements

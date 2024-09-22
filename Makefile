@@ -11,8 +11,7 @@ container-lint:
 	docker run --rm -i hadolint/hadolint < Dockerfile
 
 test:
-	pytest --nbval
-	python -m pytest -cov=mylib test_script.py mylib/test_lib.py
+	pytest --nbval *.ipynb && python -m pytest -cov=mylib test_script.py mylib/test_lib.py
 
 generate_and_push:
 	python sustainable_fashion.py
