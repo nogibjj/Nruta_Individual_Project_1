@@ -2,7 +2,30 @@
 
 ### 📂 Project Structure
 ```
-
+.
+├── .devcontainer
+│   ├── Dockerfile
+│   └── devcontainer.json
+├── .github
+│   └── workflows
+│       ├── format.yml
+│       ├── install.yml
+│       ├── lint.yml
+│       └── test.yml
+├── .gitignore
+├── Makefile
+├── README.md
+├── bar_plot.png
+├── mylib
+│   ├── make_functions.py
+│   └── test_lib.py
+├── pie_chart.png
+├── requirements.txt
+├── sustainable_fashion.ipynb
+├── sustainable_fashion.md
+├── sustainable_fashion.py
+├── sustainable_fashion_trends_2024.csv
+└── test_script.py
 ```
 
 ### 🏗️ Requirements
