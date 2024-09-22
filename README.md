@@ -3,7 +3,7 @@
 [![Test](https://github.com/nogibjj/Nruta_Individual_Project_1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Nruta_Individual_Project_1/actions/workflows/test.yml)
 [![Lint](https://github.com/nogibjj/Nruta_Individual_Project_1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Nruta_Individual_Project_1/actions/workflows/lint.yml)
 
-# IDS 706 Individual Project 1 - Continuous Integration using Gitlab Actions of Python Data Science Project
+# IDS 706 Individual Project 1 - Continuous Integration using Github Actions of Python Data Science Project
 
 ### 📂 Project Structure
 ```
