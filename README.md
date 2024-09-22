@@ -1,3 +1,8 @@
+[![Install](https://github.com/nogibjj/Nruta_Individual_Project_1/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Nruta_Individual_Project_1/actions/workflows/install.yml)
+[![Format](https://github.com/nogibjj/Nruta_Individual_Project_1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Nruta_Individual_Project_1/actions/workflows/format.yml)
+[![Test](https://github.com/nogibjj/Nruta_Individual_Project_1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Nruta_Individual_Project_1/actions/workflows/test.yml)
+[![Lint](https://github.com/nogibjj/Nruta_Individual_Project_1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Nruta_Individual_Project_1/actions/workflows/lint.yml)
+
 # IDS 706 Individual Project 1 - Continuous Integration using Gitlab Actions of Python Data Science Project
 
 ### 📂 Project Structure
@@ -41,8 +46,6 @@
 - test_lib.py to test library
 - Pinned requirements.txt
 - Gitlab Actions performs all four Makefile commands with badges for each one in the README.md
-
-
 
 ### 📊 Dataset Description
 The dataset used for this project is Sustainable Fashion: Eco-Friendly Trends from Kaggle. It provides information on sustainable fashion trends with various metrics related to the industry. For more details and to download the dataset, visit this [link](https://www.kaggle.com/datasets/waqi786/sustainable-fashion-eco-friendly-trends).
@@ -96,17 +99,23 @@ You can run the script and test the output with the dataset provided. To check t
 make test
 ```
 
-### 📊 Output
-After running the script, you will see:
+### 📋 Summary Statistics 
 
-- Summary statistics for numerical columns (mean, median, std deviation).
-- Bar chart and pie chart visualizations saved in the root folder.
+Describe:
+|    | Statistic          |   Value |
+|---:|:-------------------|--------:|
+|  0 | Mean               | 250.318 |
+|  1 | Median             | 250.65  |
+|  2 | Standard Deviation | 142.802 |
 
 ### 🔍 Visualizations
 The script generates two visualizations:
 
 1. Bar Chart - Displays the number of sustainable fashion brands by the countries.
+![sustainablebrand_viz1](bar_plot.png)
+
 2. Pie Chart - Shows the propotion of brands based on the materials they use.
+![sustainablebrand_viz2](pie_chart.png)
 
 The statistics and the visualizations for the Sustainability brands data can be viewed through the following link:
 [Click here to view details](sustainable_fashion.md)
