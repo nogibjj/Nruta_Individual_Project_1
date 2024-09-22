@@ -89,4 +89,4 @@ The statistics and the visualizations for the Sustainability brands data can be 
 [Click here to view details](sustainable_fashion.md)
 
 ### 🎥 Demo Video
-Please click here to view the Demo Video where I walk through this project.
+Please click [here](https://youtu.be/vLsw0h3YykQ) to view the Demo Video where I walk through this project.
